@@ -8,7 +8,7 @@ Créer une sorte de concert personnel mais accessible au public. Celle-ci aurait
 ## Références et inspirations
 
 ### Planche d'ambiance visuelles
-![plancheVisuelle](assets/images/MoodBoard%20Visuel.png)
+![plancheVisuelle](medias/assets/images/MoodBoard%20Visuel.png)
 
 #### Pour les sculptures
 
@@ -64,19 +64,19 @@ graph TD;
 ## Scénarimage / Simulation
 
 ### Simulation
-![plancheVisuelle](assets/images/Simulation_02.jpg)
+![plancheVisuelle](medias/assets/images/Simulation_02.jpg)
 
 ### Scénarimage
-![plancheVisuelle](assets/images/scenarimage.jpg)
+![plancheVisuelle](medias/assets/images/scenarimage.jpg)
 
 #### Organique
-![plancheVisuelle](assets/images/examples_01_00009.jpg)
+![plancheVisuelle](medias/assets/images/examples_01_00009.jpg)
 
 #### Organique Modifié (Synth)
-![plancheVisuelle](assets/images/examples_02_00009.jpg)
+![plancheVisuelle](medias/assets/images/examples_02_00009.jpg)
 
 #### Synth Complet
-![plancheVisuelle](assets/images/examples_03_00009.jpg)
+![plancheVisuelle](medias/assets/images/examples_03_00009.jpg)
 
 ### Exemple Concret Dans Touch Designer (Merci à Victor)
 https://youtu.be/ATLhkFcQZN0
@@ -100,33 +100,33 @@ Donc, il aurait quelques mp4 pour les bases des visuels, ensuite les instruments
   ![plancheVisuelle](assets/images/projecteur_epson.PNG)
   
 - 2-6 5PX-HEX (Lumières)
-  ![plancheVisuelle](assets/images/5PX-HEX.jpg)
+  ![plancheVisuelle](medias/assets/images/5PX-HEX.jpg)
   
 - 2 Sculpture Mains
   
-  ![plancheVisuelle](assets/images/main_sculptures.jpg)
+  ![plancheVisuelle](medias/assets/images/main_sculptures.jpg)
 
 - [Support pour les sculptures](https://youtu.be/exuQNdkZcog)
   
 - Ordinateurs (1 ou 2)
   
 - NanoKontrol 2
-  ![plancheVisuelle](assets/images/nanokontrol2.jpg)
+  ![plancheVisuelle](medias/assets/images/nanokontrol2.jpg)
   
 - Fils XLR, HDMI, USB-C, USB-A
 - 2-6 Speakers Genelec
   
-  ![plancheVisuelle](assets/images/genelec_speakers.jpg)
+  ![plancheVisuelle](medias/assets/images/genelec_speakers.jpg)
 
 #### Instruments
 - Akai MPK Mini Plus 37-key Keyboard
-  ![plancheVisuelle](assets/images/akai_keyboard-37.png)
+  ![plancheVisuelle](medias/assets/images/akai_keyboard-37.png)
   
 - EART Electric Guitar SSS Single Coil
-  ![plancheVisuelle](assets/images/guitar_electrique.jpg)
+  ![plancheVisuelle](medias/assets/images/guitar_electrique.jpg)
   
 - Donner Electric Drum Set
-  ![plancheVisuelle](assets/images/drum_set.jpg)
+  ![plancheVisuelle](medias/assets/images/drum_set.jpg)
   
 
 
